@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Prueba_Wal.Pagina_1">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="CenterAndExpand" Margin="20,35,20,20">
+            <Label Text="Para adivinar el día y mes de nacimiento, haga los siguientes pasos:" FontSize="18"/>
+            <Label Text="Paso 1: Piensa en tu día de nacimiento" FontSize="16"/>
+            <Label Text="Paso 2: Ahora multiplicalo por 20 " FontSize="16"/>
+            <Label Text="Paso 3: Ahora súmale 73" FontSize="16"/>
+            <Label Text="Paso 4: Debes multiplicalo por 5" FontSize="16"/>
+            <Label Text="Paso 5: Súmale el mes que naciste Ejemplo: (si naciste en deberas sumarle 2 y así con todos los meses)" FontSize="16"/>
+            <Entry x:Name="txtnone" Placeholder="Ingresa tu resultado final aquí por favor!!" Keyboard="Numeric"
+               MaxLength="4"
+               />
+            <Button Text="Preciona para calcular" x:Name="btnMostrar"
+                TextColor="Black"
+                BackgroundColor="Green"
+                BorderColor="Black"
+                BorderWidth="3"
+                CornerRadius="20"
+                WidthRequest="50"
+                HeightRequest="50"
+                Clicked="Button_Clicked"/>
+            <Label Text="Resultado acá" FontSize="20"/>
+            <Label Text="Día de nacimiento" FontSize="16"/>
+            <Label Text="........" FontSize="Large" x:Name="lblRes"
+               />
+            <Label Text="Mes de nacimiento" FontSize="16"/>
+            <Label Text="........" FontSize="Large" x:Name="lblRes1" />
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

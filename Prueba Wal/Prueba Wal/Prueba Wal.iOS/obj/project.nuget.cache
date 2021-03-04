@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hPz0nGZEp2qCKOlgODzgs1t1yDCBQjUz6lH3Wohjchswp1HNem4XXh/wohfH/j9bkDPV+PzqaXOu0kFaBPtH/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Arana\\Desktop\\ejemplo 1 prueba\\Prueba Wal\\Prueba Wal\\Prueba Wal.iOS\\Prueba Wal.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512",
+    "C:\\Users\\Arana\\.nuget\\packages\\xamarinfastentry.behaviors\\1.1.1\\xamarinfastentry.behaviors.1.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

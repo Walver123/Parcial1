@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Prueba_Wal.Page2">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="CenterAndExpand" Margin="20,35,20,20">
+
+            <Label Text="Para adivinar el número que piensas, haga los siguientes pasos:" FontSize="18"/>
+            <Label Text="Paso 1: Piensa en el numero que quieras (Puedes usar calculadora para realizar ésto)" FontSize="16"/>
+            <Label Text="Paso 2: Debes multiplicarlo por 2 " FontSize="16"/>
+            <Label Text="Paso 3: Ahora súmale 8" FontSize="16"/>
+            <Label Text="Paso 4: El resultado multiplicalo por 5 " FontSize="16"/>
+            <Entry x:Name="txtnone2" Placeholder="Ingresa tu resultado final aquí por favor!!" Keyboard="Numeric"
+               />
+            <Button Text="Preciona para calcular" x:Name="btnMostrar2"
+                TextColor="Black"
+                BackgroundColor="Green"
+                BorderColor="Black"
+                BorderWidth="3"
+                CornerRadius="20"
+                WidthRequest="50"
+                HeightRequest="50"
+                Clicked="btnMostrar_Clicked_1"/>
+            <Label Text="Resultado acá" FontSize="16"/>
+            <Label Text="El número en el que piensas es: " x:Name="mes1" FontSize="16"/>
+            <Label Text="........" FontSize="Large" x:Name="Resultfinal"
+               />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,16 @@
+C:\Users\Arana\Desktop\ejemplo 1 prueba\Prueba Wal\Prueba Wal\Prueba Wal\bin\Debug\netstandard2.0\Prueba Wal.deps.json
+C:\Users\Arana\Desktop\ejemplo 1 prueba\Prueba Wal\Prueba Wal\Prueba Wal\bin\Debug\netstandard2.0\Prueba Wal.dll
+C:\Users\Arana\Desktop\ejemplo 1 prueba\Prueba Wal\Prueba Wal\Prueba Wal\bin\Debug\netstandard2.0\ref\Prueba Wal.dll
+C:\Users\Arana\Desktop\ejemplo 1 prueba\Prueba Wal\Prueba Wal\Prueba Wal\bin\Debug\netstandard2.0\Prueba Wal.pdb
+C:\Users\Arana\Desktop\ejemplo 1 prueba\Prueba Wal\Prueba Wal\Prueba Wal\obj\Debug\netstandard2.0\Prueba Wal.csprojAssemblyReference.cache
+C:\Users\Arana\Desktop\ejemplo 1 prueba\Prueba Wal\Prueba Wal\Prueba Wal\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Arana\Desktop\ejemplo 1 prueba\Prueba Wal\Prueba Wal\Prueba Wal\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Arana\Desktop\ejemplo 1 prueba\Prueba Wal\Prueba Wal\Prueba Wal\obj\Debug\netstandard2.0\Prueba Wal.AssemblyInfoInputs.cache
+C:\Users\Arana\Desktop\ejemplo 1 prueba\Prueba Wal\Prueba Wal\Prueba Wal\obj\Debug\netstandard2.0\Prueba Wal.AssemblyInfo.cs
+C:\Users\Arana\Desktop\ejemplo 1 prueba\Prueba Wal\Prueba Wal\Prueba Wal\obj\Debug\netstandard2.0\Prueba Wal.csproj.CoreCompileInputs.cache
+C:\Users\Arana\Desktop\ejemplo 1 prueba\Prueba Wal\Prueba Wal\Prueba Wal\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Arana\Desktop\ejemplo 1 prueba\Prueba Wal\Prueba Wal\Prueba Wal\obj\Debug\netstandard2.0\Prueba Wal.dll
+C:\Users\Arana\Desktop\ejemplo 1 prueba\Prueba Wal\Prueba Wal\Prueba Wal\obj\Debug\netstandard2.0\ref\Prueba Wal.dll
+C:\Users\Arana\Desktop\ejemplo 1 prueba\Prueba Wal\Prueba Wal\Prueba Wal\obj\Debug\netstandard2.0\Prueba Wal.pdb
+C:\Users\Arana\Desktop\ejemplo 1 prueba\Prueba Wal\Prueba Wal\Prueba Wal\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\Arana\Desktop\ejemplo 1 prueba\Prueba Wal\Prueba Wal\Prueba Wal\obj\Debug\netstandard2.0\Page2.xaml.g.cs
